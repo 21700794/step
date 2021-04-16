@@ -1,2 +1,7 @@
 hello, world!
+<<<<<<< HEAD
 hello!
+=======
+hello!!!
+printf("hello");
+>>>>>>> 4c3f3d1f2fafb615a692bfbb9f0f11f4ae9ffba1
